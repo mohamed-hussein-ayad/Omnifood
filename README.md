@@ -1,2 +1,2 @@
-# Omnifood
-Omnifood
+# omnifood
+omnifood is a great restraint
